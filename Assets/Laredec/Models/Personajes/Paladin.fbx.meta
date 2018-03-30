@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: d6a4da0964533af41993debe8cef6a5a
+timeCreated: 1500029996
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: akiles_armature
+    100002: ankle_con.L
+    100004: ankle_con.R
+    100006: Bone.001
+    100008: Bone.003
+    100010: foot.L
+    100012: foot.R
+    100014: foot_con.L
+    100016: foot_con.R
+    100018: foot_ik.L
+    100020: foot_ik.R
+    100022: foot_rot+.L
+    100024: foot_rot+.R
+    100026: foot_rot-.L
+    100028: foot_rot-.R
+    100030: forearm.L
+    100032: forearm.R
+    100034: fot_rotx.L
+    100036: fot_rotx.R
+    100038: hand.L
+    100040: hand.R
+    100042: head
+    100044: hip
+    100046: knee.L
+    100048: knee.R
+    100050: master
+    100052: Mesh2
+    100054: musloprot.L
+    100056: musloprot.R
+    100058: neck
+    100060: //RootNode
+    100062: Paladin_LP.001
+    100064: shin.L
+    100066: shin.R
+    100068: shoulder.L
+    100070: shoulder.R
+    100072: spine
+    100074: thigh.L
+    100076: thigh.R
+    100078: toe.L
+    100080: toe.R
+    100082: toe_con.L
+    100084: toe_con.R
+    100086: toe_rot.L
+    100088: toe_rot.R
+    100090: torso
+    100092: upper_arm.L
+    100094: upper_arm.R
+    100096: weapon
+    400000: akiles_armature
+    400002: ankle_con.L
+    400004: ankle_con.R
+    400006: Bone.001
+    400008: Bone.003
+    400010: foot.L
+    400012: foot.R
+    400014: foot_con.L
+    400016: foot_con.R
+    400018: foot_ik.L
+    400020: foot_ik.R
+    400022: foot_rot+.L
+    400024: foot_rot+.R
+    400026: foot_rot-.L
+    400028: foot_rot-.R
+    400030: forearm.L
+    400032: forearm.R
+    400034: fot_rotx.L
+    400036: fot_rotx.R
+    400038: hand.L
+    400040: hand.R
+    400042: head
+    400044: hip
+    400046: knee.L
+    400048: knee.R
+    400050: master
+    400052: Mesh2
+    400054: musloprot.L
+    400056: musloprot.R
+    400058: neck
+    400060: //RootNode
+    400062: Paladin_LP.001
+    400064: shin.L
+    400066: shin.R
+    400068: shoulder.L
+    400070: shoulder.R
+    400072: spine
+    400074: thigh.L
+    400076: thigh.R
+    400078: toe.L
+    400080: toe.R
+    400082: toe_con.L
+    400084: toe_con.R
+    400086: toe_rot.L
+    400088: toe_rot.R
+    400090: torso
+    400092: upper_arm.L
+    400094: upper_arm.R
+    400096: weapon
+    4300000: Mesh2
+    4300002: Paladin_LP.001
+    7400000: paladin_run_1-40
+    7400002: paladin_attack_1-39
+    9500000: //RootNode
+    13700000: Mesh2
+    13700002: Paladin_LP.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: paladin_run_1-40
+      takeName: paladin_run_1-40
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: akiles_armature
+        weight: 1
+      - path: akiles_armature/master
+        weight: 1
+      - path: akiles_armature/master/Bone.003
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/ankle_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/knee.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/ankle_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/knee.R
+        weight: 1
+      - path: Mesh2
+        weight: 1
+      - path: Paladin_LP.001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: paladin_attack_1-39
+      takeName: paladin_attack_1-39
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: akiles_armature
+        weight: 1
+      - path: akiles_armature/master
+        weight: 1
+      - path: akiles_armature/master/Bone.003
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/ankle_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/knee.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/ankle_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/knee.R
+        weight: 1
+      - path: Mesh2
+        weight: 1
+      - path: Paladin_LP.001
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

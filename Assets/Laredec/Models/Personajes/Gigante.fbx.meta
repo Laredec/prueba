@@ -1,0 +1,1683 @@
+fileFormatVersion: 2
+guid: 26a8af6c37ae1584c9c9576a04bbd020
+timeCreated: 1499036504
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone.001
+    100002: Bone.003
+    100004: drop1
+    100006: drop1_end
+    100008: drop2
+    100010: drop2_end
+    100012: f_index_1.L
+    100014: f_index_1.L_end
+    100016: f_index_1.R
+    100018: f_index_1.R_end
+    100020: f_index_2.L
+    100022: f_index_2.R
+    100024: f_index_3.L
+    100026: f_index_3.R
+    100028: f_middle_1.L
+    100030: f_middle_1.L_end
+    100032: f_middle_1.R
+    100034: f_middle_1.R_end
+    100036: f_middle_2.L
+    100038: f_middle_2.R
+    100040: f_middle_3.L
+    100042: f_middle_3.R
+    100044: f_ring_1.L
+    100046: f_ring_1.L_end
+    100048: f_ring_1.R
+    100050: f_ring_1.R_end
+    100052: f_ring_2.L
+    100054: f_ring_2.R
+    100056: f_ring_3.L
+    100058: f_ring_3.R
+    100060: f_thumb_1.L
+    100062: f_thumb_1.L_end
+    100064: f_thumb_1.R
+    100066: f_thumb_1.R_end
+    100068: f_thumb_2.L
+    100070: f_thumb_2.R
+    100072: foot.L
+    100074: foot.L_end
+    100076: foot.R
+    100078: foot.R_end
+    100080: foot_con.L
+    100082: foot_con.R
+    100084: forearm.L
+    100086: forearm.R
+    100088: //RootNode
+    100090: gigante_armature
+    100092: gigante_mesh
+    100094: hand.L
+    100096: hand.R
+    100098: head
+    100100: head_end
+    100102: hip
+    100104: knee.L
+    100106: knee.L_end
+    100108: knee.R
+    100110: knee.R_end
+    100112: master
+    100114: musloprot.L
+    100116: musloprot.R
+    100118: shape con punta prota
+    100120: shape con talon prota
+    100122: shape con talon punta prota
+    100124: shape_arm
+    100126: shape_arm.001
+    100128: shape_head
+    100130: shape_hip
+    100132: shape_knee
+    100134: shape_master_torso
+    100136: shape_neck
+    100138: shape_shoulder
+    100140: shape_spine
+    100142: shape_torso
+    100144: shin.L
+    100146: shin.R
+    100148: shoulder.L
+    100150: shoulder.R
+    100152: Sphere
+    100154: spine
+    100156: stone
+    100158: stone_end
+    100160: thigh.L
+    100162: thigh.R
+    100164: torso
+    100166: upper_arm.L
+    100168: upper_arm.R
+    400000: Bone.001
+    400002: Bone.003
+    400004: drop1
+    400006: drop1_end
+    400008: drop2
+    400010: drop2_end
+    400012: f_index_1.L
+    400014: f_index_1.L_end
+    400016: f_index_1.R
+    400018: f_index_1.R_end
+    400020: f_index_2.L
+    400022: f_index_2.R
+    400024: f_index_3.L
+    400026: f_index_3.R
+    400028: f_middle_1.L
+    400030: f_middle_1.L_end
+    400032: f_middle_1.R
+    400034: f_middle_1.R_end
+    400036: f_middle_2.L
+    400038: f_middle_2.R
+    400040: f_middle_3.L
+    400042: f_middle_3.R
+    400044: f_ring_1.L
+    400046: f_ring_1.L_end
+    400048: f_ring_1.R
+    400050: f_ring_1.R_end
+    400052: f_ring_2.L
+    400054: f_ring_2.R
+    400056: f_ring_3.L
+    400058: f_ring_3.R
+    400060: f_thumb_1.L
+    400062: f_thumb_1.L_end
+    400064: f_thumb_1.R
+    400066: f_thumb_1.R_end
+    400068: f_thumb_2.L
+    400070: f_thumb_2.R
+    400072: foot.L
+    400074: foot.L_end
+    400076: foot.R
+    400078: foot.R_end
+    400080: foot_con.L
+    400082: foot_con.R
+    400084: forearm.L
+    400086: forearm.R
+    400088: //RootNode
+    400090: gigante_armature
+    400092: gigante_mesh
+    400094: hand.L
+    400096: hand.R
+    400098: head
+    400100: head_end
+    400102: hip
+    400104: knee.L
+    400106: knee.L_end
+    400108: knee.R
+    400110: knee.R_end
+    400112: master
+    400114: musloprot.L
+    400116: musloprot.R
+    400118: shape con punta prota
+    400120: shape con talon prota
+    400122: shape con talon punta prota
+    400124: shape_arm
+    400126: shape_arm.001
+    400128: shape_head
+    400130: shape_hip
+    400132: shape_knee
+    400134: shape_master_torso
+    400136: shape_neck
+    400138: shape_shoulder
+    400140: shape_spine
+    400142: shape_torso
+    400144: shin.L
+    400146: shin.R
+    400148: shoulder.L
+    400150: shoulder.R
+    400152: Sphere
+    400154: spine
+    400156: stone
+    400158: stone_end
+    400160: thigh.L
+    400162: thigh.R
+    400164: torso
+    400166: upper_arm.L
+    400168: upper_arm.R
+    2300000: shape con punta prota
+    2300002: shape con talon prota
+    2300004: shape con talon punta prota
+    2300006: shape_arm
+    2300008: shape_arm.001
+    2300010: shape_head
+    2300012: shape_hip
+    2300014: shape_master_torso
+    2300016: shape_neck
+    2300018: shape_shoulder
+    2300020: shape_spine
+    2300022: shape_torso
+    3300000: shape con punta prota
+    3300002: shape con talon prota
+    3300004: shape con talon punta prota
+    3300006: shape_arm
+    3300008: shape_arm.001
+    3300010: shape_head
+    3300012: shape_hip
+    3300014: shape_master_torso
+    3300016: shape_neck
+    3300018: shape_shoulder
+    3300020: shape_spine
+    3300022: shape_torso
+    4300000: Sphere
+    4300002: gigante_mesh
+    4300004: shape_master_torso
+    4300006: shape_hip
+    4300008: shape_spine
+    4300010: shape_torso
+    4300012: shape_shoulder
+    4300014: shape_arm
+    4300016: shape_arm.001
+    4300018: shape_neck
+    4300020: shape_head
+    4300022: shape con talon prota
+    4300024: shape con talon punta prota
+    4300026: shape con punta prota
+    7400000: gigante_walk_piedra
+    7400002: gigante_armature|CameraAction
+    7400004: gigante_armature|gigante_attack
+    7400006: gigante_armature|gigante_run_sinpiedra
+    7400008: gigante_armature|gigante_walk_piedra
+    7400010: gigante_mesh|CameraAction
+    7400012: gigante_idle
+    7400014: steveIdle
+    9500000: //RootNode
+    13700000: gigante_mesh
+    13700002: Sphere
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: gigante_walk_piedra
+      takeName: gigante_walk_piedra
+      firstFrame: 0
+      lastFrame: 159
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gigante_armature
+        weight: 1
+      - path: gigante_armature/master
+        weight: 1
+      - path: gigante_armature/master/Bone.003
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/head
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/head/head_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L/f_thumb_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L/f_thumb_1.L/f_thumb_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R/f_thumb_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R/f_thumb_1.R/f_thumb_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/stone
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/stone/stone_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop1
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop1/drop1_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop2
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop2/drop2_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 1
+      - path: gigante_armature/master/foot_con.L
+        weight: 1
+      - path: gigante_armature/master/foot_con.L/knee.L
+        weight: 1
+      - path: gigante_armature/master/foot_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: gigante_armature/master/foot_con.R
+        weight: 1
+      - path: gigante_armature/master/foot_con.R/knee.R
+        weight: 1
+      - path: gigante_armature/master/foot_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: gigante_mesh
+        weight: 1
+      - path: shape con punta prota
+        weight: 1
+      - path: shape con talon prota
+        weight: 1
+      - path: shape con talon punta prota
+        weight: 1
+      - path: shape_arm
+        weight: 1
+      - path: shape_arm.001
+        weight: 1
+      - path: shape_head
+        weight: 1
+      - path: shape_hip
+        weight: 1
+      - path: shape_knee
+        weight: 1
+      - path: shape_master_torso
+        weight: 1
+      - path: shape_neck
+        weight: 1
+      - path: shape_shoulder
+        weight: 1
+      - path: shape_spine
+        weight: 1
+      - path: shape_torso
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: gigante_armature|CameraAction
+      takeName: gigante_armature|CameraAction
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gigante_armature
+        weight: 1
+      - path: gigante_armature/master
+        weight: 1
+      - path: gigante_armature/master/Bone.003
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/head
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/head/head_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L/f_thumb_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L/f_thumb_1.L/f_thumb_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R/f_thumb_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R/f_thumb_1.R/f_thumb_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/stone
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/stone/stone_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop1
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop1/drop1_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop2
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop2/drop2_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 1
+      - path: gigante_armature/master/foot_con.L
+        weight: 1
+      - path: gigante_armature/master/foot_con.L/knee.L
+        weight: 1
+      - path: gigante_armature/master/foot_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: gigante_armature/master/foot_con.R
+        weight: 1
+      - path: gigante_armature/master/foot_con.R/knee.R
+        weight: 1
+      - path: gigante_armature/master/foot_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: gigante_mesh
+        weight: 1
+      - path: shape con punta prota
+        weight: 1
+      - path: shape con talon prota
+        weight: 1
+      - path: shape con talon punta prota
+        weight: 1
+      - path: shape_arm
+        weight: 1
+      - path: shape_arm.001
+        weight: 1
+      - path: shape_head
+        weight: 1
+      - path: shape_hip
+        weight: 1
+      - path: shape_knee
+        weight: 1
+      - path: shape_master_torso
+        weight: 1
+      - path: shape_neck
+        weight: 1
+      - path: shape_shoulder
+        weight: 1
+      - path: shape_spine
+        weight: 1
+      - path: shape_torso
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: gigante_armature|gigante_attack
+      takeName: gigante_armature|gigante_attack
+      firstFrame: 0
+      lastFrame: 231
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gigante_armature
+        weight: 1
+      - path: gigante_armature/master
+        weight: 1
+      - path: gigante_armature/master/Bone.003
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/head
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/head/head_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L/f_thumb_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L/f_thumb_1.L/f_thumb_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R/f_thumb_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R/f_thumb_1.R/f_thumb_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/stone
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/stone/stone_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop1
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop1/drop1_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop2
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop2/drop2_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 1
+      - path: gigante_armature/master/foot_con.L
+        weight: 1
+      - path: gigante_armature/master/foot_con.L/knee.L
+        weight: 1
+      - path: gigante_armature/master/foot_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: gigante_armature/master/foot_con.R
+        weight: 1
+      - path: gigante_armature/master/foot_con.R/knee.R
+        weight: 1
+      - path: gigante_armature/master/foot_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: gigante_mesh
+        weight: 1
+      - path: shape con punta prota
+        weight: 1
+      - path: shape con talon prota
+        weight: 1
+      - path: shape con talon punta prota
+        weight: 1
+      - path: shape_arm
+        weight: 1
+      - path: shape_arm.001
+        weight: 1
+      - path: shape_head
+        weight: 1
+      - path: shape_hip
+        weight: 1
+      - path: shape_knee
+        weight: 1
+      - path: shape_master_torso
+        weight: 1
+      - path: shape_neck
+        weight: 1
+      - path: shape_shoulder
+        weight: 1
+      - path: shape_spine
+        weight: 1
+      - path: shape_torso
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: gigante_armature|gigante_run_sinpiedra
+      takeName: gigante_armature|gigante_run_sinpiedra
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gigante_armature
+        weight: 1
+      - path: gigante_armature/master
+        weight: 1
+      - path: gigante_armature/master/Bone.003
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/head
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/head/head_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L/f_thumb_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L/f_thumb_1.L/f_thumb_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R/f_thumb_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R/f_thumb_1.R/f_thumb_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/stone
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/stone/stone_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop1
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop1/drop1_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop2
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop2/drop2_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 1
+      - path: gigante_armature/master/foot_con.L
+        weight: 1
+      - path: gigante_armature/master/foot_con.L/knee.L
+        weight: 1
+      - path: gigante_armature/master/foot_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: gigante_armature/master/foot_con.R
+        weight: 1
+      - path: gigante_armature/master/foot_con.R/knee.R
+        weight: 1
+      - path: gigante_armature/master/foot_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: gigante_mesh
+        weight: 1
+      - path: shape con punta prota
+        weight: 1
+      - path: shape con talon prota
+        weight: 1
+      - path: shape con talon punta prota
+        weight: 1
+      - path: shape_arm
+        weight: 1
+      - path: shape_arm.001
+        weight: 1
+      - path: shape_head
+        weight: 1
+      - path: shape_hip
+        weight: 1
+      - path: shape_knee
+        weight: 1
+      - path: shape_master_torso
+        weight: 1
+      - path: shape_neck
+        weight: 1
+      - path: shape_shoulder
+        weight: 1
+      - path: shape_spine
+        weight: 1
+      - path: shape_torso
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: gigante_armature|gigante_walk_piedra
+      takeName: gigante_armature|gigante_walk_piedra
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gigante_armature
+        weight: 1
+      - path: gigante_armature/master
+        weight: 1
+      - path: gigante_armature/master/Bone.003
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/head
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/head/head_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L/f_thumb_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L/f_thumb_1.L/f_thumb_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R/f_thumb_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R/f_thumb_1.R/f_thumb_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/stone
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/stone/stone_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop1
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop1/drop1_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop2
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop2/drop2_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 1
+      - path: gigante_armature/master/foot_con.L
+        weight: 1
+      - path: gigante_armature/master/foot_con.L/knee.L
+        weight: 1
+      - path: gigante_armature/master/foot_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: gigante_armature/master/foot_con.R
+        weight: 1
+      - path: gigante_armature/master/foot_con.R/knee.R
+        weight: 1
+      - path: gigante_armature/master/foot_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: gigante_mesh
+        weight: 1
+      - path: shape con punta prota
+        weight: 1
+      - path: shape con talon prota
+        weight: 1
+      - path: shape con talon punta prota
+        weight: 1
+      - path: shape_arm
+        weight: 1
+      - path: shape_arm.001
+        weight: 1
+      - path: shape_head
+        weight: 1
+      - path: shape_hip
+        weight: 1
+      - path: shape_knee
+        weight: 1
+      - path: shape_master_torso
+        weight: 1
+      - path: shape_neck
+        weight: 1
+      - path: shape_shoulder
+        weight: 1
+      - path: shape_spine
+        weight: 1
+      - path: shape_torso
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: gigante_mesh|CameraAction
+      takeName: gigante_mesh|CameraAction
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gigante_armature
+        weight: 1
+      - path: gigante_armature/master
+        weight: 1
+      - path: gigante_armature/master/Bone.003
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/head
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/head/head_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L/f_thumb_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L/f_thumb_1.L/f_thumb_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R/f_thumb_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R/f_thumb_1.R/f_thumb_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/stone
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/stone/stone_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop1
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop1/drop1_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop2
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop2/drop2_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 1
+      - path: gigante_armature/master/foot_con.L
+        weight: 1
+      - path: gigante_armature/master/foot_con.L/knee.L
+        weight: 1
+      - path: gigante_armature/master/foot_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: gigante_armature/master/foot_con.R
+        weight: 1
+      - path: gigante_armature/master/foot_con.R/knee.R
+        weight: 1
+      - path: gigante_armature/master/foot_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: gigante_mesh
+        weight: 1
+      - path: shape con punta prota
+        weight: 1
+      - path: shape con talon prota
+        weight: 1
+      - path: shape con talon punta prota
+        weight: 1
+      - path: shape_arm
+        weight: 1
+      - path: shape_arm.001
+        weight: 1
+      - path: shape_head
+        weight: 1
+      - path: shape_hip
+        weight: 1
+      - path: shape_knee
+        weight: 1
+      - path: shape_master_torso
+        weight: 1
+      - path: shape_neck
+        weight: 1
+      - path: shape_shoulder
+        weight: 1
+      - path: shape_spine
+        weight: 1
+      - path: shape_torso
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: steveIdle
+      takeName: gigante_mesh|CameraAction
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gigante_armature
+        weight: 1
+      - path: gigante_armature/master
+        weight: 1
+      - path: gigante_armature/master/Bone.003
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/head
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/head/head_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L/f_thumb_1.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_2.L/f_thumb_1.L/f_thumb_1.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R/f_thumb_1.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_2.R/f_thumb_1.R/f_thumb_1.R_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/stone
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/stone/stone_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop1
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop1/drop1_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop2
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/drop2/drop2_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/foot.L_end
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: gigante_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/foot.R_end
+        weight: 1
+      - path: gigante_armature/master/foot_con.L
+        weight: 1
+      - path: gigante_armature/master/foot_con.L/knee.L
+        weight: 1
+      - path: gigante_armature/master/foot_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: gigante_armature/master/foot_con.R
+        weight: 1
+      - path: gigante_armature/master/foot_con.R/knee.R
+        weight: 1
+      - path: gigante_armature/master/foot_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: gigante_mesh
+        weight: 1
+      - path: shape con punta prota
+        weight: 1
+      - path: shape con talon prota
+        weight: 1
+      - path: shape con talon punta prota
+        weight: 1
+      - path: shape_arm
+        weight: 1
+      - path: shape_arm.001
+        weight: 1
+      - path: shape_head
+        weight: 1
+      - path: shape_hip
+        weight: 1
+      - path: shape_knee
+        weight: 1
+      - path: shape_master_torso
+        weight: 1
+      - path: shape_neck
+        weight: 1
+      - path: shape_shoulder
+        weight: 1
+      - path: shape_spine
+        weight: 1
+      - path: shape_torso
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: bc694afc6d78c2241a89456cb325b3ac,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

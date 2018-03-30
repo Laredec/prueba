@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 9698ad69ecd0a0845a21bd0b435eeafd
+timeCreated: 1481307241
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Boot_derecha
+    100004: Boot_izq
+    100006: Brazos
+    100008: Coletsa
+    100010: Eyes_1
+    100012: Eyes_3
+    100014: Hair
+    100016: Head
+    100018: Hebilla_2
+    100020: Pantalon
+    100022: Parry
+    100024: Solapa_derecha
+    100026: Solapa_izq
+    100028: Sword
+    100030: Torso
+    400000: //RootNode
+    400002: Boot_derecha
+    400004: Boot_izq
+    400006: Brazos
+    400008: Coletsa
+    400010: Eyes_1
+    400012: Eyes_3
+    400014: Hair
+    400016: Head
+    400018: Hebilla_2
+    400020: Pantalon
+    400022: Parry
+    400024: Solapa_derecha
+    400026: Solapa_izq
+    400028: Sword
+    400030: Torso
+    2300000: Boot_derecha
+    2300002: Boot_izq
+    2300004: Brazos
+    2300006: Coletsa
+    2300008: Eyes_1
+    2300010: Eyes_3
+    2300012: Hair
+    2300014: Head
+    2300016: Hebilla_2
+    2300018: Pantalon
+    2300020: Parry
+    2300022: Solapa_derecha
+    2300024: Solapa_izq
+    2300026: Sword
+    2300028: Torso
+    3300000: Boot_derecha
+    3300002: Boot_izq
+    3300004: Brazos
+    3300006: Coletsa
+    3300008: Eyes_1
+    3300010: Eyes_3
+    3300012: Hair
+    3300014: Head
+    3300016: Hebilla_2
+    3300018: Pantalon
+    3300020: Parry
+    3300022: Solapa_derecha
+    3300024: Solapa_izq
+    3300026: Sword
+    3300028: Torso
+    4300000: Pantalon
+    4300002: Brazos
+    4300004: Head
+    4300006: Torso
+    4300008: Boot_derecha
+    4300010: Solapa_derecha
+    4300012: Eyes_1
+    4300014: Hebilla_2
+    4300016: Solapa_izq
+    4300018: Boot_izq
+    4300020: Coletsa
+    4300022: Hair
+    4300024: Eyes_3
+    4300026: Sword
+    4300028: Parry
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

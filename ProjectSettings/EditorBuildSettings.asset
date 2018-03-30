@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Resources/BigBox/Escenas/Cargando Inicial.unity
+    guid: a2f7bb300e378df4eaae6d90bdd3854b
+  - enabled: 0
+    path: Assets/Resources/BigBox/Escenas/MenuPrincipal.unity
+    guid: b276b00c9b0fe7442b82eb2acac393b3
+  - enabled: 0
+    path: Assets/Resources/BigBox/Escenas/Juego.unity
+    guid: e31849f4bee1d6643a7e4dfd368a8be5

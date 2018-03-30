@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBox", "BigBox.csproj", "{060119C0-DB46-9C11-78CC-ABE876A25440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBox.Editor", "BigBox.Editor.csproj", "{0D3BAD02-2649-E52E-93D3-F4DD065CAA08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060119C0-DB46-9C11-78CC-ABE876A25440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060119C0-DB46-9C11-78CC-ABE876A25440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060119C0-DB46-9C11-78CC-ABE876A25440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060119C0-DB46-9C11-78CC-ABE876A25440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3BAD02-2649-E52E-93D3-F4DD065CAA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3BAD02-2649-E52E-93D3-F4DD065CAA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3BAD02-2649-E52E-93D3-F4DD065CAA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3BAD02-2649-E52E-93D3-F4DD065CAA08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

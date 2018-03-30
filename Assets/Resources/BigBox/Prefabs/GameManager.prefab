@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &106962
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 463760}
+  - component: {fileID: 11416302}
+  - component: {fileID: 11492580}
+  - component: {fileID: 114511843405655326}
+  - component: {fileID: 114829754614403958}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &463760
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 106962}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 87, y: 60.482502, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11416302
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 106962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef3d39e767bbe324faf00b8a8db2ca32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameSparksManagerPR: {fileID: 1921489810155632, guid: 9c037fcac381f274ca95eed9a0f49d10,
+    type: 2}
+  debugOk: 0
+  jugadorPropio: {fileID: 0}
+  jugadorEnemigo: {fileID: 0}
+  mPosPacket: 00000000000000000000
+  idEnemigo: 
+  nombreEnemigo: 
+  idPropia: 
+  nombrePropio: 
+  canvasInicioGO: {fileID: 0}
+  panelInicioGO: {fileID: 0}
+  panelEsperaGO: {fileID: 0}
+  porcentajeCargadoGO: {fileID: 0}
+  canvasGameGO: {fileID: 0}
+  panelVictoriaGO: {fileID: 0}
+  panelDerrotaGO: {fileID: 0}
+  panelSalirGO: {fileID: 0}
+  panelVSGO: {fileID: 0}
+  botonSurrenderGO: {fileID: 0}
+  mensajeFinalPartida: {fileID: 0}
+  prefabsPersonajes:
+  - {fileID: 138278, guid: 481e8cf98e5e4ff4784592cfbe3852ef, type: 2}
+  - {fileID: 1360765835033572, guid: e39471c36b8d6de46b543e3d34b483b8, type: 2}
+  posiciones:
+  - {fileID: 422788, guid: 1e9d9097b48020e4c9d654b4071e61d2, type: 2}
+  - {fileID: 416312, guid: 1c345ca2cea649742b84c10209f627e3, type: 2}
+  cerrarSalaOk: 0
+  t0CerrarSala: 0
+  sonidoGanar: {fileID: 114511843405655326}
+  sonidoPerder: {fileID: 114829754614403958}
+  barraAzulVida: {fileID: 21300000, guid: aa8e66c5fc4672a4e9ebbb8aa1178e9b, type: 3}
+  barraRojaVida: {fileID: 21300000, guid: 87813e0f59ed8ed45b3109c96d6a5ee3, type: 3}
+--- !u!114 &11492580
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 106962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9fb5b49dbfb2fb4ba0f0b6f51426b4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 106962}
+  m_IsPrefabParent: 1
+--- !u!114 &114511843405655326
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 106962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e38950fea6cb954b9bf7222667c88c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Sonido: {fileID: 8300000, guid: 1b7f5c65964fca24290519e73eddbe30, type: 3}
+  Source: {fileID: 0}
+  Volumen: 1
+--- !u!114 &114829754614403958
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 106962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e38950fea6cb954b9bf7222667c88c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Sonido: {fileID: 8300000, guid: d78f821ebdf09944ea9f4728f251dda0, type: 3}
+  Source: {fileID: 0}
+  Volumen: 1

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Akiles_LowerBody
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000001000000010000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: akileLow
+    m_Weight: 0
+  - m_Path: CH_Root_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_calf_l_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_calf_r_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_clavicle_l_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_clavicle_r_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_foot_l_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_foot_r_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_hair_01_l_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_hair_01_r_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_hand_l_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_hand_r_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_head_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_Hip_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Index_01_l_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Index_01_r_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Index_02_l_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Index_02_r_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Kunai_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_lowerarm_l_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_lowerarm_l_B/CH_lowerarm_roll_l_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_lowerarm_r_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_lowerarm_r_B/CH_lowerarm_roll_r_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Middle_01_l_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Middle_01_r_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Middle_02_l_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Middle_02_r_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_neck_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Pigtail_01_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Pigtail_02_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Pigtail_03_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Ring_01_l_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Ring_01_r_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_Ring_02_l_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_Ring_02_r_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_spine_01_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_spine_02_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_thigh_l_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_thigh_r_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_thumb_01_l_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_thumb_01_r_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_thumb_02_l_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_thumb_02_r_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_toe_l_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_toe_r_B
+    m_Weight: 1
+  - m_Path: CH_Root_B/CH_upperarm_l_B
+    m_Weight: 0
+  - m_Path: CH_Root_B/CH_upperarm_r_B
+    m_Weight: 0

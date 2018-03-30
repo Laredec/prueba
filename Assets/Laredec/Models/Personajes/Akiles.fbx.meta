@@ -1,0 +1,1156 @@
+fileFormatVersion: 2
+guid: 51a5a6ca208f54149843451daa93b2a9
+timeCreated: 1499050763
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: akiles_armature
+    100004: akiles_mesh
+    100006: ankle_con.L
+    100008: ankle_con.L_end
+    100010: ankle_con.R
+    100012: ankle_con.R_end
+    100014: Bone.001
+    100016: Bone.003
+    100018: f_index_1.L
+    100020: f_index_1.L_end
+    100022: f_index_1.R
+    100024: f_index_1.R_end
+    100026: f_index_2.L
+    100028: f_index_2.R
+    100030: f_index_3.L
+    100032: f_index_3.R
+    100034: f_middle_1.L
+    100036: f_middle_1.L_end
+    100038: f_middle_1.R
+    100040: f_middle_1.R_end
+    100042: f_middle_2.L
+    100044: f_middle_2.R
+    100046: f_middle_3.L
+    100048: f_middle_3.R
+    100050: f_pinky_1.L
+    100052: f_pinky_1.L_end
+    100054: f_pinky_1.R
+    100056: f_pinky_1.R_end
+    100058: f_pinky_2.L
+    100060: f_pinky_2.R
+    100062: f_pinky_3.L
+    100064: f_pinky_3.R
+    100066: f_ring_1.L
+    100068: f_ring_1.L_end
+    100070: f_ring_1.R
+    100072: f_ring_1.R_end
+    100074: f_ring_2.L
+    100076: f_ring_2.R
+    100078: f_ring_3.L
+    100080: f_ring_3.R
+    100082: f_thumb_2.L
+    100084: f_thumb_2.L_end
+    100086: f_thumb_2.R
+    100088: f_thumb_2.R_end
+    100090: f_thumb_3.L
+    100092: f_thumb_3.R
+    100094: foot.L
+    100096: foot.R
+    100098: foot_con.L
+    100100: foot_con.R
+    100102: foot_ik.L
+    100104: foot_ik.L_end
+    100106: foot_ik.R
+    100108: foot_ik.R_end
+    100110: foot_rot+.L
+    100112: foot_rot+.R
+    100114: foot_rot-.L
+    100116: foot_rot-.R
+    100118: forearm.L
+    100120: forearm.R
+    100122: fot_rotx.L
+    100124: fot_rotx.R
+    100126: hand.L
+    100128: hand.R
+    100130: head
+    100132: head_end
+    100134: hip
+    100136: knee.L
+    100138: knee.L_end
+    100140: knee.R
+    100142: knee.R_end
+    100144: master
+    100146: musloprot.L
+    100148: musloprot.R
+    100150: neck
+    100152: shin.L
+    100154: shin.R
+    100156: shoulder.L
+    100158: shoulder.R
+    100160: spine
+    100162: thigh.L
+    100164: thigh.R
+    100166: toe.L
+    100168: toe.L_end
+    100170: toe.R
+    100172: toe.R_end
+    100174: toe_con.L
+    100176: toe_con.R
+    100178: toe_rot.L
+    100180: toe_rot.R
+    100182: torso
+    100184: upper_arm.L
+    100186: upper_arm.R
+    100188: weapon
+    100190: weapon_end
+    400000: //RootNode
+    400002: akiles_armature
+    400004: akiles_mesh
+    400006: ankle_con.L
+    400008: ankle_con.L_end
+    400010: ankle_con.R
+    400012: ankle_con.R_end
+    400014: Bone.001
+    400016: Bone.003
+    400018: f_index_1.L
+    400020: f_index_1.L_end
+    400022: f_index_1.R
+    400024: f_index_1.R_end
+    400026: f_index_2.L
+    400028: f_index_2.R
+    400030: f_index_3.L
+    400032: f_index_3.R
+    400034: f_middle_1.L
+    400036: f_middle_1.L_end
+    400038: f_middle_1.R
+    400040: f_middle_1.R_end
+    400042: f_middle_2.L
+    400044: f_middle_2.R
+    400046: f_middle_3.L
+    400048: f_middle_3.R
+    400050: f_pinky_1.L
+    400052: f_pinky_1.L_end
+    400054: f_pinky_1.R
+    400056: f_pinky_1.R_end
+    400058: f_pinky_2.L
+    400060: f_pinky_2.R
+    400062: f_pinky_3.L
+    400064: f_pinky_3.R
+    400066: f_ring_1.L
+    400068: f_ring_1.L_end
+    400070: f_ring_1.R
+    400072: f_ring_1.R_end
+    400074: f_ring_2.L
+    400076: f_ring_2.R
+    400078: f_ring_3.L
+    400080: f_ring_3.R
+    400082: f_thumb_2.L
+    400084: f_thumb_2.L_end
+    400086: f_thumb_2.R
+    400088: f_thumb_2.R_end
+    400090: f_thumb_3.L
+    400092: f_thumb_3.R
+    400094: foot.L
+    400096: foot.R
+    400098: foot_con.L
+    400100: foot_con.R
+    400102: foot_ik.L
+    400104: foot_ik.L_end
+    400106: foot_ik.R
+    400108: foot_ik.R_end
+    400110: foot_rot+.L
+    400112: foot_rot+.R
+    400114: foot_rot-.L
+    400116: foot_rot-.R
+    400118: forearm.L
+    400120: forearm.R
+    400122: fot_rotx.L
+    400124: fot_rotx.R
+    400126: hand.L
+    400128: hand.R
+    400130: head
+    400132: head_end
+    400134: hip
+    400136: knee.L
+    400138: knee.L_end
+    400140: knee.R
+    400142: knee.R_end
+    400144: master
+    400146: musloprot.L
+    400148: musloprot.R
+    400150: neck
+    400152: shin.L
+    400154: shin.R
+    400156: shoulder.L
+    400158: shoulder.R
+    400160: spine
+    400162: thigh.L
+    400164: thigh.R
+    400166: toe.L
+    400168: toe.L_end
+    400170: toe.R
+    400172: toe.R_end
+    400174: toe_con.L
+    400176: toe_con.R
+    400178: toe_rot.L
+    400180: toe_rot.R
+    400182: torso
+    400184: upper_arm.L
+    400186: upper_arm.R
+    400188: weapon
+    400190: weapon_end
+    4300000: akiles_mesh
+    7400000: akiles_armature|akiles_attackaxe_1-41
+    7400002: akiles_armature|akiles_fireballidle_1-40
+    7400004: akiles_armature|akiles_fireballrun_1-40
+    7400006: akiles_armature|akiles_idle_1-97
+    9500000: //RootNode
+    13700000: akiles_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: akiles_armature|akiles_attackaxe_1-41
+      takeName: akiles_armature|akiles_attackaxe_1-41
+      firstFrame: 0
+      lastFrame: 41
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: akiles_armature
+        weight: 1
+      - path: akiles_armature/master
+        weight: 1
+      - path: akiles_armature/master/Bone.003
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head/head_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L/f_pinky_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L/f_thumb_2.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R/f_pinky_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R/f_thumb_2.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon/weapon_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/ankle_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/ankle_con.L/ankle_con.L_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L/foot_ik.L_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/knee.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/ankle_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/ankle_con.R/ankle_con.R_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R/foot_ik.R_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/knee.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: akiles_mesh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: akiles_armature|akiles_fireballidle_1-40
+      takeName: akiles_armature|akiles_fireballidle_1-40
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: akiles_armature
+        weight: 1
+      - path: akiles_armature/master
+        weight: 1
+      - path: akiles_armature/master/Bone.003
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head/head_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L/f_pinky_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L/f_thumb_2.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R/f_pinky_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R/f_thumb_2.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon/weapon_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/ankle_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/ankle_con.L/ankle_con.L_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L/foot_ik.L_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/knee.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/ankle_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/ankle_con.R/ankle_con.R_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R/foot_ik.R_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/knee.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: akiles_mesh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: akiles_armature|akiles_fireballrun_1-40
+      takeName: akiles_armature|akiles_fireballrun_1-40
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: akiles_armature
+        weight: 1
+      - path: akiles_armature/master
+        weight: 1
+      - path: akiles_armature/master/Bone.003
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head/head_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L/f_pinky_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L/f_thumb_2.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R/f_pinky_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R/f_thumb_2.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon/weapon_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/ankle_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/ankle_con.L/ankle_con.L_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L/foot_ik.L_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/knee.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/ankle_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/ankle_con.R/ankle_con.R_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R/foot_ik.R_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/knee.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: akiles_mesh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: akiles_armature|akiles_idle_1-97
+      takeName: akiles_armature|akiles_idle_1-97
+      firstFrame: 0
+      lastFrame: 97
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: akiles_armature
+        weight: 1
+      - path: akiles_armature/master
+        weight: 1
+      - path: akiles_armature/master/Bone.003
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head/head_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L/f_pinky_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L/f_thumb_2.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R/f_pinky_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R/f_thumb_2.R_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon/weapon_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: akiles_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/ankle_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/ankle_con.L/ankle_con.L_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L/foot_ik.L_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/knee.L
+        weight: 1
+      - path: akiles_armature/master/foot_con.L/toe_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/ankle_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/ankle_con.R/ankle_con.R_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R/foot_ik.R_end
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/knee.R
+        weight: 1
+      - path: akiles_armature/master/foot_con.R/toe_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: akiles_mesh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

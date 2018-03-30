@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 1285da3f4d22f6f4198b4c5cb1f2ae20
+timeCreated: 1515681299
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _RMA: {fileID: 2800000, guid: 5cd39045115ea6a41b5313fb12600d28, type: 3}
+  - _Sss: {fileID: 2800000, guid: 1fcd93297305fb8478d88d0eb079e2c1, type: 3}
+  - _Alvedo: {fileID: 2800000, guid: 2adac77551146d44d81f41dc74d5e634, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

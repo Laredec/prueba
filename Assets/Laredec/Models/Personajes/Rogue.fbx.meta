@@ -1,0 +1,1655 @@
+fileFormatVersion: 2
+guid: 8d5db6a1fb4e8cf4fb311c7529150f20
+timeCreated: 1499048150
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankle_con.L
+    100002: ankle_con.L_end
+    100004: ankle_con.R
+    100006: ankle_con.R_end
+    100008: Bone.001
+    100010: Bone.003
+    100012: Camera
+    100014: Cube
+    100016: f_index_1.L
+    100018: f_index_1.L_end
+    100020: f_index_1.R
+    100022: f_index_1.R_end
+    100024: f_index_2.L
+    100026: f_index_2.R
+    100028: f_index_3.L
+    100030: f_index_3.R
+    100032: f_middle_1.L
+    100034: f_middle_1.L_end
+    100036: f_middle_1.R
+    100038: f_middle_1.R_end
+    100040: f_middle_2.L
+    100042: f_middle_2.R
+    100044: f_middle_3.L
+    100046: f_middle_3.R
+    100048: f_pinky_1.L
+    100050: f_pinky_1.L_end
+    100052: f_pinky_1.R
+    100054: f_pinky_1.R_end
+    100056: f_pinky_2.L
+    100058: f_pinky_2.R
+    100060: f_pinky_3.L
+    100062: f_pinky_3.R
+    100064: f_ring_1.L
+    100066: f_ring_1.L_end
+    100068: f_ring_1.R
+    100070: f_ring_1.R_end
+    100072: f_ring_2.L
+    100074: f_ring_2.R
+    100076: f_ring_3.L
+    100078: f_ring_3.R
+    100080: f_thumb_1.L
+    100082: f_thumb_1.L_end
+    100084: f_thumb_1.R
+    100086: f_thumb_1.R_end
+    100088: f_thumb_2.L
+    100090: f_thumb_2.R
+    100092: f_thumb_3.L
+    100094: f_thumb_3.R
+    100096: foot.L
+    100098: foot.R
+    100100: foot_con.L
+    100102: foot_con.R
+    100104: foot_ik.L
+    100106: foot_ik.L_end
+    100108: foot_ik.R
+    100110: foot_ik.R_end
+    100112: foot_rot+.L
+    100114: foot_rot+.R
+    100116: foot_rot-.L
+    100118: foot_rot-.R
+    100120: forearm.L
+    100122: forearm.R
+    100124: fot_rotx.L
+    100126: fot_rotx.R
+    100128: hand.L
+    100130: hand.R
+    100132: hat
+    100134: hat_end
+    100136: head
+    100138: Hemi
+    100140: Hemi.001
+    100142: hip
+    100144: knee.L
+    100146: knee.L_end
+    100148: knee.R
+    100150: knee.R_end
+    100152: master
+    100154: musloprot.L
+    100156: musloprot.R
+    100158: neck
+    100160: //RootNode
+    100162: rogue_armature
+    100164: Rogue_LP
+    100166: shape con punta prota
+    100168: shape con talon prota
+    100170: shape con talon punta prota
+    100172: shape_arm
+    100174: shape_arm.001
+    100176: shape_head
+    100178: shape_hip
+    100180: shape_knee
+    100182: shape_master_torso
+    100184: shape_neck
+    100186: shape_shoulder
+    100188: shape_spine
+    100190: shape_torso
+    100192: shin.L
+    100194: shin.R
+    100196: shoulder.L
+    100198: shoulder.R
+    100200: spine
+    100202: thigh.L
+    100204: thigh.R
+    100206: toe.L
+    100208: toe.L_end
+    100210: toe.R
+    100212: toe.R_end
+    100214: toe_con.L
+    100216: toe_con.R
+    100218: toe_rot.L
+    100220: toe_rot.R
+    100222: torso
+    100224: upper_arm.L
+    100226: upper_arm.R
+    100228: weapon
+    100230: weapon_end
+    400000: ankle_con.L
+    400002: ankle_con.L_end
+    400004: ankle_con.R
+    400006: ankle_con.R_end
+    400008: Bone.001
+    400010: Bone.003
+    400012: Camera
+    400014: Cube
+    400016: f_index_1.L
+    400018: f_index_1.L_end
+    400020: f_index_1.R
+    400022: f_index_1.R_end
+    400024: f_index_2.L
+    400026: f_index_2.R
+    400028: f_index_3.L
+    400030: f_index_3.R
+    400032: f_middle_1.L
+    400034: f_middle_1.L_end
+    400036: f_middle_1.R
+    400038: f_middle_1.R_end
+    400040: f_middle_2.L
+    400042: f_middle_2.R
+    400044: f_middle_3.L
+    400046: f_middle_3.R
+    400048: f_pinky_1.L
+    400050: f_pinky_1.L_end
+    400052: f_pinky_1.R
+    400054: f_pinky_1.R_end
+    400056: f_pinky_2.L
+    400058: f_pinky_2.R
+    400060: f_pinky_3.L
+    400062: f_pinky_3.R
+    400064: f_ring_1.L
+    400066: f_ring_1.L_end
+    400068: f_ring_1.R
+    400070: f_ring_1.R_end
+    400072: f_ring_2.L
+    400074: f_ring_2.R
+    400076: f_ring_3.L
+    400078: f_ring_3.R
+    400080: f_thumb_1.L
+    400082: f_thumb_1.L_end
+    400084: f_thumb_1.R
+    400086: f_thumb_1.R_end
+    400088: f_thumb_2.L
+    400090: f_thumb_2.R
+    400092: f_thumb_3.L
+    400094: f_thumb_3.R
+    400096: foot.L
+    400098: foot.R
+    400100: foot_con.L
+    400102: foot_con.R
+    400104: foot_ik.L
+    400106: foot_ik.L_end
+    400108: foot_ik.R
+    400110: foot_ik.R_end
+    400112: foot_rot+.L
+    400114: foot_rot+.R
+    400116: foot_rot-.L
+    400118: foot_rot-.R
+    400120: forearm.L
+    400122: forearm.R
+    400124: fot_rotx.L
+    400126: fot_rotx.R
+    400128: hand.L
+    400130: hand.R
+    400132: hat
+    400134: hat_end
+    400136: head
+    400138: Hemi
+    400140: Hemi.001
+    400142: hip
+    400144: knee.L
+    400146: knee.L_end
+    400148: knee.R
+    400150: knee.R_end
+    400152: master
+    400154: musloprot.L
+    400156: musloprot.R
+    400158: neck
+    400160: //RootNode
+    400162: rogue_armature
+    400164: Rogue_LP
+    400166: shape con punta prota
+    400168: shape con talon prota
+    400170: shape con talon punta prota
+    400172: shape_arm
+    400174: shape_arm.001
+    400176: shape_head
+    400178: shape_hip
+    400180: shape_knee
+    400182: shape_master_torso
+    400184: shape_neck
+    400186: shape_shoulder
+    400188: shape_spine
+    400190: shape_torso
+    400192: shin.L
+    400194: shin.R
+    400196: shoulder.L
+    400198: shoulder.R
+    400200: spine
+    400202: thigh.L
+    400204: thigh.R
+    400206: toe.L
+    400208: toe.L_end
+    400210: toe.R
+    400212: toe.R_end
+    400214: toe_con.L
+    400216: toe_con.R
+    400218: toe_rot.L
+    400220: toe_rot.R
+    400222: torso
+    400224: upper_arm.L
+    400226: upper_arm.R
+    400228: weapon
+    400230: weapon_end
+    2300000: shape con punta prota
+    2300002: shape con talon prota
+    2300004: shape con talon punta prota
+    2300006: shape_arm
+    2300008: shape_arm.001
+    2300010: shape_head
+    2300012: shape_hip
+    2300014: shape_master_torso
+    2300016: shape_neck
+    2300018: shape_shoulder
+    2300020: shape_spine
+    2300022: shape_torso
+    3300000: shape con punta prota
+    3300002: shape con talon prota
+    3300004: shape con talon punta prota
+    3300006: shape_arm
+    3300008: shape_arm.001
+    3300010: shape_head
+    3300012: shape_hip
+    3300014: shape_master_torso
+    3300016: shape_neck
+    3300018: shape_shoulder
+    3300020: shape_spine
+    3300022: shape_torso
+    4300000: Cube
+    4300002: Rogue_LP
+    4300004: shape_master_torso
+    4300006: shape_hip
+    4300008: shape_spine
+    4300010: shape_torso
+    4300012: shape_shoulder
+    4300014: shape_arm
+    4300016: shape_arm.001
+    4300018: shape_neck
+    4300020: shape_head
+    4300022: shape con talon prota
+    4300024: shape con talon punta prota
+    4300026: shape con punta prota
+    7400000: rogue_armature|Bip001 Footsteps|Take 001|BaseLayer
+    7400002: rogue_armature|Bip001 Ponytail2Nub|Take 001|BaseLayer
+    7400004: rogue_armature|Bip001.001|Take 001|BaseLayer
+    7400006: rogue_armature|rogue_attack_1-85
+    7400008: rogue_armature|rogue_run_1-40
+    9500000: //RootNode
+    13700000: Cube
+    13700002: Rogue_LP
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: rogue_armature|Bip001 Footsteps|Take 001|BaseLayer
+      takeName: rogue_armature|Bip001 Footsteps|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Hemi
+        weight: 1
+      - path: Hemi.001
+        weight: 1
+      - path: rogue_armature
+        weight: 1
+      - path: rogue_armature/master
+        weight: 1
+      - path: rogue_armature/master/Bone.003
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head/hat
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head/hat/hat_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L/f_pinky_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L/f_thumb_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L/f_thumb_1.L/f_thumb_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R/f_pinky_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R/f_thumb_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R/f_thumb_1.R/f_thumb_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon/weapon_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/ankle_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/ankle_con.L/ankle_con.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L/foot_ik.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/knee.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/ankle_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/ankle_con.R/ankle_con.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R/foot_ik.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/knee.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: Rogue_LP
+        weight: 1
+      - path: shape con punta prota
+        weight: 1
+      - path: shape con talon prota
+        weight: 1
+      - path: shape con talon punta prota
+        weight: 1
+      - path: shape_arm
+        weight: 1
+      - path: shape_arm.001
+        weight: 1
+      - path: shape_head
+        weight: 1
+      - path: shape_hip
+        weight: 1
+      - path: shape_knee
+        weight: 1
+      - path: shape_master_torso
+        weight: 1
+      - path: shape_neck
+        weight: 1
+      - path: shape_shoulder
+        weight: 1
+      - path: shape_spine
+        weight: 1
+      - path: shape_torso
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rogue_armature|Bip001 Ponytail2Nub|Take 001|BaseLayer
+      takeName: rogue_armature|Bip001 Ponytail2Nub|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Hemi
+        weight: 1
+      - path: Hemi.001
+        weight: 1
+      - path: rogue_armature
+        weight: 1
+      - path: rogue_armature/master
+        weight: 1
+      - path: rogue_armature/master/Bone.003
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head/hat
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head/hat/hat_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L/f_pinky_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L/f_thumb_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L/f_thumb_1.L/f_thumb_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R/f_pinky_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R/f_thumb_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R/f_thumb_1.R/f_thumb_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon/weapon_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/ankle_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/ankle_con.L/ankle_con.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L/foot_ik.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/knee.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/ankle_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/ankle_con.R/ankle_con.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R/foot_ik.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/knee.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: Rogue_LP
+        weight: 1
+      - path: shape con punta prota
+        weight: 1
+      - path: shape con talon prota
+        weight: 1
+      - path: shape con talon punta prota
+        weight: 1
+      - path: shape_arm
+        weight: 1
+      - path: shape_arm.001
+        weight: 1
+      - path: shape_head
+        weight: 1
+      - path: shape_hip
+        weight: 1
+      - path: shape_knee
+        weight: 1
+      - path: shape_master_torso
+        weight: 1
+      - path: shape_neck
+        weight: 1
+      - path: shape_shoulder
+        weight: 1
+      - path: shape_spine
+        weight: 1
+      - path: shape_torso
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rogue_armature|Bip001.001|Take 001|BaseLayer
+      takeName: rogue_armature|Bip001.001|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Hemi
+        weight: 1
+      - path: Hemi.001
+        weight: 1
+      - path: rogue_armature
+        weight: 1
+      - path: rogue_armature/master
+        weight: 1
+      - path: rogue_armature/master/Bone.003
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head/hat
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head/hat/hat_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L/f_pinky_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L/f_thumb_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L/f_thumb_1.L/f_thumb_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R/f_pinky_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R/f_thumb_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R/f_thumb_1.R/f_thumb_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon/weapon_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/ankle_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/ankle_con.L/ankle_con.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L/foot_ik.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/knee.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/ankle_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/ankle_con.R/ankle_con.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R/foot_ik.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/knee.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: Rogue_LP
+        weight: 1
+      - path: shape con punta prota
+        weight: 1
+      - path: shape con talon prota
+        weight: 1
+      - path: shape con talon punta prota
+        weight: 1
+      - path: shape_arm
+        weight: 1
+      - path: shape_arm.001
+        weight: 1
+      - path: shape_head
+        weight: 1
+      - path: shape_hip
+        weight: 1
+      - path: shape_knee
+        weight: 1
+      - path: shape_master_torso
+        weight: 1
+      - path: shape_neck
+        weight: 1
+      - path: shape_shoulder
+        weight: 1
+      - path: shape_spine
+        weight: 1
+      - path: shape_torso
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rogue_armature|rogue_attack_1-85
+      takeName: rogue_armature|rogue_attack_1-85
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Hemi
+        weight: 1
+      - path: Hemi.001
+        weight: 1
+      - path: rogue_armature
+        weight: 1
+      - path: rogue_armature/master
+        weight: 1
+      - path: rogue_armature/master/Bone.003
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head/hat
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head/hat/hat_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L/f_pinky_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L/f_thumb_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L/f_thumb_1.L/f_thumb_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R/f_pinky_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R/f_thumb_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R/f_thumb_1.R/f_thumb_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon/weapon_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/ankle_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/ankle_con.L/ankle_con.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L/foot_ik.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/knee.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/ankle_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/ankle_con.R/ankle_con.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R/foot_ik.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/knee.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: Rogue_LP
+        weight: 1
+      - path: shape con punta prota
+        weight: 1
+      - path: shape con talon prota
+        weight: 1
+      - path: shape con talon punta prota
+        weight: 1
+      - path: shape_arm
+        weight: 1
+      - path: shape_arm.001
+        weight: 1
+      - path: shape_head
+        weight: 1
+      - path: shape_hip
+        weight: 1
+      - path: shape_knee
+        weight: 1
+      - path: shape_master_torso
+        weight: 1
+      - path: shape_neck
+        weight: 1
+      - path: shape_shoulder
+        weight: 1
+      - path: shape_spine
+        weight: 1
+      - path: shape_torso
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rogue_armature|rogue_run_1-40
+      takeName: rogue_armature|rogue_run_1-40
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Hemi
+        weight: 1
+      - path: Hemi.001
+        weight: 1
+      - path: rogue_armature
+        weight: 1
+      - path: rogue_armature/master
+        weight: 1
+      - path: rogue_armature/master/Bone.003
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head/hat
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/neck/head/hat/hat_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_index_3.L/f_index_2.L/f_index_1.L/f_index_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_middle_3.L/f_middle_2.L/f_middle_1.L/f_middle_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_pinky_3.L/f_pinky_2.L/f_pinky_1.L/f_pinky_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_ring_3.L/f_ring_2.L/f_ring_1.L/f_ring_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L/f_thumb_1.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.L/upper_arm.L/forearm.L/hand.L/f_thumb_3.L/f_thumb_2.L/f_thumb_1.L/f_thumb_1.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_index_3.R/f_index_2.R/f_index_1.R/f_index_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_middle_3.R/f_middle_2.R/f_middle_1.R/f_middle_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_pinky_3.R/f_pinky_2.R/f_pinky_1.R/f_pinky_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_ring_3.R/f_ring_2.R/f_ring_1.R/f_ring_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R/f_thumb_1.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/f_thumb_3.R/f_thumb_2.R/f_thumb_1.R/f_thumb_1.R_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/Bone.001/spine/torso/shoulder.R/upper_arm.R/forearm.R/hand.R/weapon/weapon_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.L/thigh.L/shin.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: rogue_armature/master/Bone.003/hip/musloprot.R/thigh.R/shin.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/ankle_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/ankle_con.L/ankle_con.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/foot_rot+.L/foot_rot-.L/fot_rotx.L/toe_rot.L/foot_ik.L/foot_ik.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/knee.L
+        weight: 1
+      - path: rogue_armature/master/foot_con.L/toe_con.L/knee.L/knee.L_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/ankle_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/ankle_con.R/ankle_con.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/foot_rot+.R/foot_rot-.R/fot_rotx.R/toe_rot.R/foot_ik.R/foot_ik.R_end
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/knee.R
+        weight: 1
+      - path: rogue_armature/master/foot_con.R/toe_con.R/knee.R/knee.R_end
+        weight: 1
+      - path: Rogue_LP
+        weight: 1
+      - path: shape con punta prota
+        weight: 1
+      - path: shape con talon prota
+        weight: 1
+      - path: shape con talon punta prota
+        weight: 1
+      - path: shape_arm
+        weight: 1
+      - path: shape_arm.001
+        weight: 1
+      - path: shape_head
+        weight: 1
+      - path: shape_hip
+        weight: 1
+      - path: shape_knee
+        weight: 1
+      - path: shape_master_torso
+        weight: 1
+      - path: shape_neck
+        weight: 1
+      - path: shape_shoulder
+        weight: 1
+      - path: shape_spine
+        weight: 1
+      - path: shape_torso
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

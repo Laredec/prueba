@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: c7af989fd5106ba45b70f499e49ce2d6
+timeCreated: 1437120798
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cabeza
+    100002: cadera
+    100004: cododer
+    100006: codoizq
+    100008: cuello
+    100010: hombroder
+    100012: hombroizq
+    100014: manoder
+    100016: manoizq
+    100018: musloder
+    100020: musloizq
+    100022: pecho
+    100024: pieder
+    100026: pieizq
+    100028: rodillader
+    100030: rodillaizq
+    100032: root
+    100034: Steve
+    100036: //RootNode
+    400000: cabeza
+    400002: cadera
+    400004: cododer
+    400006: codoizq
+    400008: cuello
+    400010: hombroder
+    400012: hombroizq
+    400014: manoder
+    400016: manoizq
+    400018: musloder
+    400020: musloizq
+    400022: pecho
+    400024: pieder
+    400026: pieizq
+    400028: rodillader
+    400030: rodillaizq
+    400032: root
+    400034: Steve
+    400036: //RootNode
+    4300000: Steve
+    7400000: SteveIdle
+    7400002: SteveRun
+    7400004: SteveJump
+    7400006: SteveDoubleJump
+    7400008: SteveClimb
+    7400010: SteveClimbIdle
+    7400012: SteveShootChain
+    7400014: SteveShootFire
+    7400016: SteveDies
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Steve
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftFoot' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SteveIdle
+      takeName: Animation
+      firstFrame: 1
+      lastFrame: 29
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/cadera
+        weight: 1
+      - path: root/cadera/musloder
+        weight: 1
+      - path: root/cadera/musloder/rodillader
+        weight: 1
+      - path: root/cadera/musloder/rodillader/pieder
+        weight: 1
+      - path: root/cadera/musloizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq/pieizq
+        weight: 1
+      - path: root/cadera/pecho
+        weight: 1
+      - path: root/cadera/pecho/cuello
+        weight: 1
+      - path: root/cadera/pecho/cuello/cabeza
+        weight: 1
+      - path: root/cadera/pecho/hombroder
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer/manoder
+        weight: 1
+      - path: root/cadera/pecho/hombroizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq/manoizq
+        weight: 1
+      - path: Steve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SteveRun
+      takeName: Animation
+      firstFrame: 40
+      lastFrame: 69
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/cadera
+        weight: 1
+      - path: root/cadera/musloder
+        weight: 1
+      - path: root/cadera/musloder/rodillader
+        weight: 1
+      - path: root/cadera/musloder/rodillader/pieder
+        weight: 1
+      - path: root/cadera/musloizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq/pieizq
+        weight: 1
+      - path: root/cadera/pecho
+        weight: 1
+      - path: root/cadera/pecho/cuello
+        weight: 1
+      - path: root/cadera/pecho/cuello/cabeza
+        weight: 1
+      - path: root/cadera/pecho/hombroder
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer/manoder
+        weight: 1
+      - path: root/cadera/pecho/hombroizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq/manoizq
+        weight: 1
+      - path: Steve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SteveJump
+      takeName: Animation
+      firstFrame: 80
+      lastFrame: 89
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/cadera
+        weight: 1
+      - path: root/cadera/musloder
+        weight: 1
+      - path: root/cadera/musloder/rodillader
+        weight: 1
+      - path: root/cadera/musloder/rodillader/pieder
+        weight: 1
+      - path: root/cadera/musloizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq/pieizq
+        weight: 1
+      - path: root/cadera/pecho
+        weight: 1
+      - path: root/cadera/pecho/cuello
+        weight: 1
+      - path: root/cadera/pecho/cuello/cabeza
+        weight: 1
+      - path: root/cadera/pecho/hombroder
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer/manoder
+        weight: 1
+      - path: root/cadera/pecho/hombroizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq/manoizq
+        weight: 1
+      - path: Steve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SteveDoubleJump
+      takeName: Animation
+      firstFrame: 100
+      lastFrame: 135
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/cadera
+        weight: 1
+      - path: root/cadera/musloder
+        weight: 1
+      - path: root/cadera/musloder/rodillader
+        weight: 1
+      - path: root/cadera/musloder/rodillader/pieder
+        weight: 1
+      - path: root/cadera/musloizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq/pieizq
+        weight: 1
+      - path: root/cadera/pecho
+        weight: 1
+      - path: root/cadera/pecho/cuello
+        weight: 1
+      - path: root/cadera/pecho/cuello/cabeza
+        weight: 1
+      - path: root/cadera/pecho/hombroder
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer/manoder
+        weight: 1
+      - path: root/cadera/pecho/hombroizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq/manoizq
+        weight: 1
+      - path: Steve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SteveClimb
+      takeName: Animation
+      firstFrame: 145
+      lastFrame: 174
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/cadera
+        weight: 1
+      - path: root/cadera/musloder
+        weight: 1
+      - path: root/cadera/musloder/rodillader
+        weight: 1
+      - path: root/cadera/musloder/rodillader/pieder
+        weight: 1
+      - path: root/cadera/musloizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq/pieizq
+        weight: 1
+      - path: root/cadera/pecho
+        weight: 1
+      - path: root/cadera/pecho/cuello
+        weight: 1
+      - path: root/cadera/pecho/cuello/cabeza
+        weight: 1
+      - path: root/cadera/pecho/hombroder
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer/manoder
+        weight: 1
+      - path: root/cadera/pecho/hombroizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq/manoizq
+        weight: 1
+      - path: Steve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SteveClimbIdle
+      takeName: Animation
+      firstFrame: 145
+      lastFrame: 146
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/cadera
+        weight: 1
+      - path: root/cadera/musloder
+        weight: 1
+      - path: root/cadera/musloder/rodillader
+        weight: 1
+      - path: root/cadera/musloder/rodillader/pieder
+        weight: 1
+      - path: root/cadera/musloizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq/pieizq
+        weight: 1
+      - path: root/cadera/pecho
+        weight: 1
+      - path: root/cadera/pecho/cuello
+        weight: 1
+      - path: root/cadera/pecho/cuello/cabeza
+        weight: 1
+      - path: root/cadera/pecho/hombroder
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer/manoder
+        weight: 1
+      - path: root/cadera/pecho/hombroizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq/manoizq
+        weight: 1
+      - path: Steve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SteveShootChain
+      takeName: Animation
+      firstFrame: 189
+      lastFrame: 190
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/cadera
+        weight: 1
+      - path: root/cadera/musloder
+        weight: 1
+      - path: root/cadera/musloder/rodillader
+        weight: 1
+      - path: root/cadera/musloder/rodillader/pieder
+        weight: 1
+      - path: root/cadera/musloizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq/pieizq
+        weight: 1
+      - path: root/cadera/pecho
+        weight: 1
+      - path: root/cadera/pecho/cuello
+        weight: 1
+      - path: root/cadera/pecho/cuello/cabeza
+        weight: 1
+      - path: root/cadera/pecho/hombroder
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer/manoder
+        weight: 1
+      - path: root/cadera/pecho/hombroizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq/manoizq
+        weight: 1
+      - path: Steve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SteveShootFire
+      takeName: Animation
+      firstFrame: 198
+      lastFrame: 200
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/cadera
+        weight: 1
+      - path: root/cadera/musloder
+        weight: 1
+      - path: root/cadera/musloder/rodillader
+        weight: 1
+      - path: root/cadera/musloder/rodillader/pieder
+        weight: 1
+      - path: root/cadera/musloizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq/pieizq
+        weight: 1
+      - path: root/cadera/pecho
+        weight: 1
+      - path: root/cadera/pecho/cuello
+        weight: 1
+      - path: root/cadera/pecho/cuello/cabeza
+        weight: 1
+      - path: root/cadera/pecho/hombroder
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer/manoder
+        weight: 1
+      - path: root/cadera/pecho/hombroizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq/manoizq
+        weight: 1
+      - path: Steve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SteveDies
+      takeName: Animation
+      firstFrame: 210
+      lastFrame: 235
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/cadera
+        weight: 1
+      - path: root/cadera/musloder
+        weight: 1
+      - path: root/cadera/musloder/rodillader
+        weight: 1
+      - path: root/cadera/musloder/rodillader/pieder
+        weight: 1
+      - path: root/cadera/musloizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq
+        weight: 1
+      - path: root/cadera/musloizq/rodillaizq/pieizq
+        weight: 1
+      - path: root/cadera/pecho
+        weight: 1
+      - path: root/cadera/pecho/cuello
+        weight: 1
+      - path: root/cadera/pecho/cuello/cabeza
+        weight: 1
+      - path: root/cadera/pecho/hombroder
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer
+        weight: 1
+      - path: root/cadera/pecho/hombroder/cododer/manoder
+        weight: 1
+      - path: root/cadera/pecho/hombroizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq
+        weight: 1
+      - path: root/cadera/pecho/hombroizq/codoizq/manoizq
+        weight: 1
+      - path: Steve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: cadera
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: musloizq
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: musloder
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pieizq
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rodillader
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pieder
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: pecho
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cuello
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cabeza
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hombroizq
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hombroder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: codoizq
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: cododer
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manoizq
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: manoder
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: steve(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: root
+      parentName: steve(Clone)
+      position: {x: 0.3284624, y: 1.0174977, z: -6.943219e-10}
+      rotation: {x: 0.16297674, y: -0.6859827, z: 0.16193551, w: 0.6903935}
+      scale: {x: 1, y: 1, z: 1}
+    - name: cadera
+      parentName: root
+      position: {x: -0, y: 0, z: 0.3875915}
+      rotation: {x: 0.000000029802322, y: 0.63687056, z: -0.31842864, w: 0.7021389}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: musloder
+      parentName: cadera
+      position: {x: 0.061484642, y: -0.081299014, z: 0.07536385}
+      rotation: {x: 0.11599132, y: -0.5149418, z: 0.84640485, w: 0.070567675}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: rodillader
+      parentName: musloder
+      position: {x: 0.00074236066, y: 0.010685879, z: 0.3572276}
+      rotation: {x: -0.036453977, y: -0.008645117, z: -0.9992979, w: 0.00031526387}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000007}
+    - name: pieder
+      parentName: rodillader
+      position: {x: -0.00046623228, y: 0.0011240768, z: 0.39852026}
+      rotation: {x: 8.194547e-10, y: 0.000000015094429, z: 0.000000022206223, w: 1}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000001}
+    - name: musloizq
+      parentName: cadera
+      position: {x: -0.12598473, y: -0.10100675, z: 0.073764935}
+      rotation: {x: -0.5186551, y: 0.09027908, z: -0.055189867, w: -0.84841067}
+      scale: {x: 1, y: 1.0000001, z: 0.99999976}
+    - name: rodillaizq
+      parentName: musloizq
+      position: {x: -0.00050735485, y: -0.00040428227, z: 0.3325953}
+      rotation: {x: 0.018012764, y: -0.0036380657, z: 0.99983114, w: 0.0000656508}
+      scale: {x: 0.9999997, y: 0.9999996, z: 0.9999999}
+    - name: pieizq
+      parentName: rodillaizq
+      position: {x: -0, y: 0, z: 0.40471113}
+      rotation: {x: -0, y: -0, z: 7.2759585e-12, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999998}
+    - name: pecho
+      parentName: cadera
+      position: {x: 0.0018052424, y: 0.4782161, z: -0.18098103}
+      rotation: {x: -0.000000007450581, y: -0, z: 0.0000000074505797, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: cuello
+      parentName: pecho
+      position: {x: -0.00017257677, y: 0.13297267, z: -0.096298434}
+      rotation: {x: 0.0002082192, y: 0.8120693, z: 0.58356094, w: -0.00028966868}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000005}
+    - name: cabeza
+      parentName: cuello
+      position: {x: -0.0000000077486035, y: -0.0000017547607, z: 0.1682904}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000002}
+    - name: hombroder
+      parentName: pecho
+      position: {x: 0.1959858, y: -0.03276208, z: 0.014971994}
+      rotation: {x: 0.7122913, y: -0.015731262, z: 0.7015259, w: 0.015972728}
+      scale: {x: 1.0000015, y: 1.0000018, z: 1.0000006}
+    - name: cododer
+      parentName: hombroder
+      position: {x: 0.000013466805, y: 0.00033760245, z: 0.25574464}
+      rotation: {x: 0.008567484, y: -0.0041866177, z: 0.000035886187, w: 0.9999546}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000006}
+    - name: manoder
+      parentName: cododer
+      position: {x: -0, y: 0, z: 0.28810808}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1}
+    - name: hombroizq
+      parentName: pecho
+      position: {x: -0.20798814, y: -0.028028183, z: 0.015499725}
+      rotation: {x: -0.013303379, y: 0.69782346, z: -0.012965099, w: -0.71602887}
+      scale: {x: 1.0000011, y: 0.99999994, z: 1.0000014}
+    - name: codoizq
+      parentName: hombroizq
+      position: {x: -0.00037603374, y: -0.00018493658, z: 0.2676327}
+      rotation: {x: -0.00085344916, y: -0.00043621662, z: -0.0000003539026, w: 0.9999996}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000007}
+    - name: manoizq
+      parentName: codoizq
+      position: {x: -0, y: 0, z: 0.28025433}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000011, y: 1, z: 1.000001}
+    - name: Steve
+      parentName: steve(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

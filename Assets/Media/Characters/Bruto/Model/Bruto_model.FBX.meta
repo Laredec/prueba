@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 5fecae2f1123e0746bcde849a2d83cf1
+timeCreated: 1518813649
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Barvaro_Low
+    100002: //RootNode
+    100004: Object018
+    100006: Rooky:CH_ball_l_B
+    100008: Rooky:CH_ball_r_B
+    100010: Rooky:CH_calf_l_B
+    100012: Rooky:CH_calf_r_B
+    100014: Rooky:CH_clavicle_l_B
+    100016: Rooky:CH_clavicle_r_B
+    100018: Rooky:CH_ear_l_B
+    100020: Rooky:CH_ear_r_B
+    100022: Rooky:CH_foot_l_B
+    100024: Rooky:CH_foot_r_B
+    100026: Rooky:CH_hair_02_B
+    100028: Rooky:CH_hand_l_B
+    100030: Rooky:CH_hand_r_B
+    100032: Rooky:CH_Haner_l_B
+    100034: Rooky:CH_Haner_r_B
+    100036: Rooky:CH_head_B
+    100038: Rooky:CH_Hit_B
+    100040: Rooky:CH_Index_01_l_B
+    100042: Rooky:CH_Index_01_r_B
+    100044: Rooky:CH_Index_02_l_B
+    100046: Rooky:CH_Index_02_r_B
+    100048: Rooky:CH_lowerarm_l_B
+    100050: Rooky:CH_lowerarm_r_B
+    100052: Rooky:CH_lowerarm_roll_l_B
+    100054: Rooky:CH_lowerarm_roll_r_B
+    100056: Rooky:CH_Mace_01_B
+    100058: Rooky:CH_Mace_02_B
+    100060: Rooky:CH_Mace_03_B
+    100062: Rooky:CH_Middle_01_l_B
+    100064: Rooky:CH_Middle_01_r_B
+    100066: Rooky:CH_Middle_02_l_B
+    100068: Rooky:CH_Middle_02_r_B
+    100070: Rooky:CH_neck_B
+    100072: Rooky:CH_Ring_01_l_B
+    100074: Rooky:CH_Ring_01_r_B
+    100076: Rooky:CH_Ring_02_l_B
+    100078: Rooky:CH_Ring_02_r_B
+    100080: Rooky:CH_Root_B
+    100082: Rooky:CH_spine_01_B
+    100084: Rooky:CH_spine_02_B
+    100086: Rooky:CH_thigh_l_B
+    100088: Rooky:CH_thigh_r_B
+    100090: Rooky:CH_thumb_01_l_B
+    100092: Rooky:CH_thumb_01_r_B
+    100094: Rooky:CH_thumb_02_l_B
+    100096: Rooky:CH_thumb_02_r_B
+    100098: Rooky:CH_upperarm_l_B
+    100100: Rooky:CH_upperarm_r_B
+    100102: CH_Root_Ctrl
+    400000: Barvaro_Low
+    400002: //RootNode
+    400004: Object018
+    400006: Rooky:CH_ball_l_B
+    400008: Rooky:CH_ball_r_B
+    400010: Rooky:CH_calf_l_B
+    400012: Rooky:CH_calf_r_B
+    400014: Rooky:CH_clavicle_l_B
+    400016: Rooky:CH_clavicle_r_B
+    400018: Rooky:CH_ear_l_B
+    400020: Rooky:CH_ear_r_B
+    400022: Rooky:CH_foot_l_B
+    400024: Rooky:CH_foot_r_B
+    400026: Rooky:CH_hair_02_B
+    400028: Rooky:CH_hand_l_B
+    400030: Rooky:CH_hand_r_B
+    400032: Rooky:CH_Haner_l_B
+    400034: Rooky:CH_Haner_r_B
+    400036: Rooky:CH_head_B
+    400038: Rooky:CH_Hit_B
+    400040: Rooky:CH_Index_01_l_B
+    400042: Rooky:CH_Index_01_r_B
+    400044: Rooky:CH_Index_02_l_B
+    400046: Rooky:CH_Index_02_r_B
+    400048: Rooky:CH_lowerarm_l_B
+    400050: Rooky:CH_lowerarm_r_B
+    400052: Rooky:CH_lowerarm_roll_l_B
+    400054: Rooky:CH_lowerarm_roll_r_B
+    400056: Rooky:CH_Mace_01_B
+    400058: Rooky:CH_Mace_02_B
+    400060: Rooky:CH_Mace_03_B
+    400062: Rooky:CH_Middle_01_l_B
+    400064: Rooky:CH_Middle_01_r_B
+    400066: Rooky:CH_Middle_02_l_B
+    400068: Rooky:CH_Middle_02_r_B
+    400070: Rooky:CH_neck_B
+    400072: Rooky:CH_Ring_01_l_B
+    400074: Rooky:CH_Ring_01_r_B
+    400076: Rooky:CH_Ring_02_l_B
+    400078: Rooky:CH_Ring_02_r_B
+    400080: Rooky:CH_Root_B
+    400082: Rooky:CH_spine_01_B
+    400084: Rooky:CH_spine_02_B
+    400086: Rooky:CH_thigh_l_B
+    400088: Rooky:CH_thigh_r_B
+    400090: Rooky:CH_thumb_01_l_B
+    400092: Rooky:CH_thumb_01_r_B
+    400094: Rooky:CH_thumb_02_l_B
+    400096: Rooky:CH_thumb_02_r_B
+    400098: Rooky:CH_upperarm_l_B
+    400100: Rooky:CH_upperarm_r_B
+    400102: CH_Root_Ctrl
+    2100000: _barbaro03___Default
+    2100002: _barbaro04___Default
+    2100004: _barbaro12___Default
+    2100006: _barbaro05___Default
+    2100008: 'Material #235'
+    2100010: 03 - Default
+    4300000: Object018
+    4300002: Barvaro_Low
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Barvaro_Low
+    13700002: Object018
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
